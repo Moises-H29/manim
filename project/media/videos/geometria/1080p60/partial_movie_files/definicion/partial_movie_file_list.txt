@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/3977891868_3893545606_223132457.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_1839128356_759703805.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_289009588_128601188.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_1839128356_787986843.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_3772853936_418747225.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_1839128356_737076904.mp4'
