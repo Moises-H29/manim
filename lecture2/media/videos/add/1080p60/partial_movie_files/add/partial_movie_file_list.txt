@@ -1,2 +1,5 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/lecture2/media/videos/add/1080p60/partial_movie_files/add/3977891868_1754310298_938147614.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/lecture2/media/videos/add/1080p60/partial_movie_files/add/3977891868_1734327179_2082492080.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/lecture2/media/videos/add/1080p60/partial_movie_files/add/2852726489_2408024828_210259938.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/lecture2/media/videos/add/1080p60/partial_movie_files/add/2852726489_3583930099_691969773.mp4'
+file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/lecture2/media/videos/add/1080p60/partial_movie_files/add/2852726489_1754310298_548643001.mp4'
