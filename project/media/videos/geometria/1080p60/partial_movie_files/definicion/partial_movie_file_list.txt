@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/3977891868_3518095815_223132457.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_1839128356_1139091474.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_2102851364_489163324.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_1839128356_3631668248.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_1420508723_833699526.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_2408024828_869139332.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_2004663431_1896501348.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/definicion/2852726489_1839128356_2783141788.mp4'

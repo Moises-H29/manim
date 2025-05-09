@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/LeyDeCoulomb/3977891868_2119745503_223132457.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/LeyDeCoulomb/2852726489_2523493795_4291770955.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/LeyDeCoulomb/2852726489_1839128356_2712599645.mp4'
-file 'file:C:/Users/ironm/OneDrive/Escritorio/manim/project/media/videos/geometria/1080p60/partial_movie_files/LeyDeCoulomb/2852726489_94366358_3372037422.mp4'
