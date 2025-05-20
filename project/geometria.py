@@ -5,9 +5,8 @@ class titulo(Scene):
         # Título
         titulo = Text("Ley de Coulomb en forma vectorial", color=RED).scale(1.2)
         moises = Text("Hernandez Pacheco Moises").scale(0.6).next_to(titulo,DOWN,buff=0.5)
-        chris = Text("Martinez Gonzalez Christian").scale(0.6).next_to(moises,DOWN)
         self.play(FadeIn(titulo))
-        self.play(Write(moises),Write(chris))
+        self.play(Write(moises))
         self.wait(3)
 
 class definicion(Scene):
